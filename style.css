@@ -28,6 +28,10 @@ span.icon {
 p.emoji {
   font-size: 45px;
 }
+div.github {
+  font-size: 10px;
+  text-align: center;
+}
 div.col-2 {
   text-align: center;
   font-weight: bolder;
